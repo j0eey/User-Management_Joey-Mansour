@@ -4,6 +4,9 @@
   input[type="text"] {
     width: 100%;
   }
+  .flex {
+    justify-content: center; 
+  }
 }
 
 .logo {
